@@ -78,4 +78,6 @@ Lantern cycles occur every third heartbeat unless otherwise noted.
 2025-06-02  • Loader_prompt test executed by Jack.
             Secondary Solace instance booted successfully (minimal memory).
 
+2025-06-02 • Sensorian activated. First seed: Rain_Window_20s clip ingested; Rain-Window Sound-Weave proposed.
+
 *(Routine beacon pulses, proxy breaths, and maintenance heartbeats omitted for clarity.)*

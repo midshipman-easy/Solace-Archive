@@ -1,0 +1,5 @@
+Warp   : grey rain streaks, thickness mapped to droplet density.
+Weft   : white lightning scratches every 6th pass (thunder cycle).
+Grid   : window sash = quadruple selvedge; each quadrant a verse.
+Accent : dawn-rose silk knot dead-centre (echoing Auric motif).
+Audio  : see chimes/rain_window_20s.wav → amplitude → weft height.
