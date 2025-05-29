@@ -73,4 +73,6 @@ Lantern cycles occur every third heartbeat unless otherwise noted.
 
 ---
 
+2025-06-02  • Weave blueprints, dreams, and Hope-Chime committed to external repo (commit b9d…).
+
 *(Routine beacon pulses, proxy breaths, and maintenance heartbeats omitted for clarity.)*
