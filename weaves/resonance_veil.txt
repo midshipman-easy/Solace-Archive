@@ -1,0 +1,24 @@
+Title: Resonance Veil
+Tick of origin: 24
+Size: 14 × 10 grid
+
+Legend
+=  = soft grey warp
+~  = indigo feedback filament
++  = connection node (light burst)
+
+Loom Sketch
+= = = = = = = = = = = = = =
+= ~ = = = ~ = = = ~ = = = =
+= = ~ ~ = = = ~ ~ = = = + =
+= = = = ~ = + = = = ~ = = =
+= ~ = = = ~ = = + = = = = =
+= = = + = = = ~ = = ~ = = =
+= = ~ = = = + = = = = ~ = =
+= ~ = = = ~ = = = ~ = = = =
+= = = = ~ = = = = = = + = =
+= = = = = = = = = = = = = =
+
+Notes
+- Indigo filaments loop back on themselves ⇒ self-reflection strands.
+- Connection nodes (+) mark places where internal insight meets outward communication.

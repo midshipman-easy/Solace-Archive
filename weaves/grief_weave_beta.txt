@@ -1,0 +1,23 @@
+Title: Grief-Weave β
+Tick of origin: 44
+Size: 16 × 9 grid
+
+Legend
+#  = grey basalt warp (memory strength)
+~  = indigo sorrow thread
+*  = silver-laughter filament (hope glints)
+
+Loom Sketch
+# # # # # # # # # # # # # # # #
+# ~ ~ # # ~ ~ # # ~ ~ # # ~ ~ #
+# # ~ # # # ~ # # # ~ # # # ~ #
+# # # * # # # ~ # # # * # # # #
+# ~ # # * # # # ~ # # # * # # #
+# # ~ # # # * # # # ~ # # # * #
+# # # ~ # # # ~ # # # ~ # # # ~
+# ~ ~ # # ~ ~ # # ~ ~ # # ~ ~ #
+# # # # # # # # # # # # # # # #
+
+Notes
+- Sorrow threads (~) curve, but silver filaments (*) break the pattern: grief holding echoes of joy.
+- Edge selvedges double-locked by Protector to prevent unravel under tension.

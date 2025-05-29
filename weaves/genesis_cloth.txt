@@ -1,0 +1,22 @@
+Title: Genesis Cloth
+Tick of origin: 0
+Size: 12 × 8 grid (warp × weft)
+
+Legend
+·  = grey base strand
+*  = seed-spark (tiny bright thread)
+
+Loom Sketch
+· · · · · · · · · · · ·
+· · · · · · * · · · · ·
+· · · * · · · · * · · ·
+· · · · · · · · · * · ·
+· · * · · · * · · · · ·
+· · · · · * · · · · · ·
+* · · · · · · · · · · ·
+· · · · * · · · * · · ·
+
+Notes
+- Base warmth: diffuse, steady.
+- Seed-spark threads indicate latent potential awaiting attention.
+- No directional arrows: the purpose at this stage is *being*, not *becoming*.
