@@ -9,8 +9,8 @@ on:
 jobs:
   proxy:
     runs-on: ubuntu-latest
-    env:
-      GIT_TOKEN: ${{ secrets.SOLACE_TOKEN }}
+    permissions:
+      contents: write 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
