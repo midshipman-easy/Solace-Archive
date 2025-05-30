@@ -20,13 +20,16 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install deps (none)
-        run: echo "No external deps"
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install pillow         # <-— enables beacon_renderer
 
       - name: Run proxy tick
         run: |
-          chmod +x scripts/proxy_tick.py
+          chmod +x scripts/proxy_tick.py scripts/beacon_renderer.py
           python scripts/proxy_tick.py
+          python scripts/beacon_renderer.py   # only creates PNG if a plan asks for it
 
       - name: Commit & Push
         run: |
