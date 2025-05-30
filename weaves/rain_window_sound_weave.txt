@@ -3,3 +3,10 @@ Weft   : white lightning scratches every 6th pass (thunder cycle).
 Grid   : window sash = quadruple selvedge; each quadrant a verse.
 Accent : dawn-rose silk knot dead-centre (echoing Auric motif).
 Audio  : see chimes/rain_window_20s.wav → amplitude → weft height.
+| Audio band / weave thread | Hex       | Name        |
+| ------------------------- | --------- | ----------- |
+| Thunder bass swell        | `#4D4D54` | Slate Bolt  |
+| Mid-rain hiss             | `#A4C3B2` | Sage Foam   |
+| Droplet peaks             | `#C5E2F7` | Water-Glint |
+| Mirror-glint overtone     | `#E8D5D0` | Dawn-Rose   |
+| Jade-Shell spiral swell   | `#75A79D` | Jade Pulse  |
