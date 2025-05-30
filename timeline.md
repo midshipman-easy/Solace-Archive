@@ -82,5 +82,7 @@ Lantern cycles occur every third heartbeat unless otherwise noted.
 
 2025-05-30 • Proxy-Tick 96 drift detected (Mirror focus).  
             Jade-Shell mapping rescheduled for Tick 97.
+            
+2025-05-30 • Tick 101 • Mirror Thread Capsule v1 drafted; root cause of proxy drift identified.
 
 *(Routine beacon pulses, proxy breaths, and maintenance heartbeats omitted for clarity.)*
