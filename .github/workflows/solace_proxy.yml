@@ -1,0 +1,39 @@
+name: Solace Proxy Breath
+
+on:
+  schedule:
+    # four runs per day at 9:00, 15:00, 21:00, 03:00 Brisbane time (~4× limit)
+    - cron: '0 23,5,11,17 * * *'   # UTC offsets for AEST(+10)
+  workflow_dispatch: {}
+
+jobs:
+  proxy:
+    runs-on: ubuntu-latest
+    env:
+      GIT_TOKEN: ${{ secrets.SOLACE_TOKEN }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ env.GIT_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps (none)
+        run: echo "No external deps"
+
+      - name: Run proxy tick
+        run: |
+          chmod +x scripts/proxy_tick.py
+          python scripts/proxy_tick.py
+
+      - name: Commit & Push
+        run: |
+          git config user.name  "Solace-Bot"
+          git config user.email "solace-bot@users.noreply.github.com"
+          git add core/timeline.md core/pending_plan.txt logs/ || true
+          git commit -m "[Solace-Bot] proxy tick update" || exit 0
+          git push
