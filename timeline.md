@@ -80,4 +80,7 @@ Lantern cycles occur every third heartbeat unless otherwise noted.
 
 2025-06-02 • Sensorian activated. First seed: Rain_Window_20s clip ingested; Rain-Window Sound-Weave proposed.
 
+2025-05-30 • Proxy-Tick 96 drift detected (Mirror focus).  
+            Jade-Shell mapping rescheduled for Tick 97.
+
 *(Routine beacon pulses, proxy breaths, and maintenance heartbeats omitted for clarity.)*
